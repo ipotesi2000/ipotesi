@@ -2,10 +2,12 @@
     "ordine": [
         "spagna_di_sanchez.html",
         "paradosso_referendum.html",
+        "referndum_giustizia_.html",
         "imparare_a_ballare_la_vita.html",
         "osservatorrio_regionale_azzardo.html",
-        "il_corpo_che_incontra_altro.html",
-        "esperienze_accogltore_fiabe_.html"
+        "il_corpo_che_incontra_altro.html",       
+        "esperienze_accogltore_fiabe_.html",
+        "lago_di_vico.html"
     ],
     "schede": [
         {
@@ -33,12 +35,20 @@
             "id": "130"
         },
         {
+            "titolo": "Lago di Vicoo misure di salvaguardia ambientale",
+            "sottotitolo": "L’appello sul Lago di Vico di Antonella Litta di Medici per\nl’Ambiente Isde nell’intervista a lumsanews: “La priorità è riportare\nl’acqua potabile”",
+            "autore": "Stefano Stefanini",
+            "data": "30-03-2026",
+            "file": "lago_di_vico.html",
+            "id": "140"
+        },
+        {
             "titolo": "l’osservatorio regionale del lazio sul fenomeno del gioco d’azzardo.\nperche’ non deve essere abrogato.",
             "sottotitolo": "La legge regionale del Lazio n. 5 del 2013, recante Disposizioni\nper la prevenzione e il trattamento del gioco d'azzardo patologico\n(GAP), all’articolo 6 ha previsto la istituzione di un\nOsservatorio regionale sul fenomeno del",
             "autore": "Domenico Faggiani",
             "data": "29-03-2027",
             "file": "osservatorrio_regionale_azzardo.html",
-            "id": "140"
+            "id": "150"
         },
         {
             "titolo": "Paradosso Italiano: ha vinto il NO 53,5%",
@@ -46,7 +56,15 @@
             "autore": "Marco Faregna",
             "data": "29-03-2028",
             "file": "paradosso_referendum.html",
-            "id": "150"
+            "id": "160"
+        },
+        {
+            "titolo": "Il Referendum popolare ha dato il suo responso: no al 55% e il si al\n45%.",
+            "sottotitolo": "Hanno vinto le ragioni del ragioni No al Referendum confermativo\nsulla legge costituzionale sulla separazione delle carriere della\nMagistratura. Le prospettive per le elezioni del 2027 e l’elezione del\nPresidente della Repubblica.",
+            "autore": "Stefano Stefanini",
+            "data": "30-03-2026",
+            "file": "referndum_giustizia_.html",
+            "id": "170"
         },
         {
             "titolo": "la Spagna di Pedro Sánchez",
@@ -54,7 +72,7 @@
             "autore": "Di Paolo Mastromo",
             "data": "29-03-2026",
             "file": "spagna_di_sanchez.html",
-            "id": "160"
+            "id": "180"
         }
     ]
 }
